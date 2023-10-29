@@ -1,0 +1,18 @@
+{
+  "name": "ERC4337-AA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alchemy/aa-accounts": "^0.1.1",
+    "@alchemy/aa-alchemy": "^0.1.1",
+    "@alchemy/aa-core": "^0.1.1",
+    "viem": "^1.18.0"
+  }
+}
